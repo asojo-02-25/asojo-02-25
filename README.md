@@ -6,7 +6,7 @@
 
 ## Skills 🛠
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=bash,html,css,js,ruby)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=bash,html,css,js,python,ruby)](https://skillicons.dev)
 
 ### Dev Tools
 [![Dev Tools](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
