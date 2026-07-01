@@ -6,17 +6,17 @@
 
 ## Skills 🛠
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=bash,html,css,js,python,ruby)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=bash,html,css,js,csharp,python,ruby)](https://skillicons.dev)
 
 ### Dev Tools
-[![Dev Tools](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
+[![Dev Tools](https://skillicons.dev/icons?i=github,vscode,visualstudio)](https://skillicons.dev)
 
 ### Others
 [![Others](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 
 ## project
 
-Having developed a typing practice app for bar exam candidates!
+I developed a typing practice app for bar exam candidates!
 
 ### Links 🔗
 
